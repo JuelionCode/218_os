@@ -1,0 +1,4 @@
+/mnt/c/Users/Тарас/Desktop/ОСи/lab3/cmake-build-debug/CMakeFiles/parent.dir
+/mnt/c/Users/Тарас/Desktop/ОСи/lab3/cmake-build-debug/CMakeFiles/child.dir
+/mnt/c/Users/Тарас/Desktop/ОСи/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Тарас/Desktop/ОСи/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

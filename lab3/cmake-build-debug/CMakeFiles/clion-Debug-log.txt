@@ -1,0 +1,13 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/Тарас/Desktop/ОСи/lab3 -B /mnt/c/Users/Тарас/Desktop/ОСи/lab3/cmake-build-debug
+-- The C compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Configuring done (8.5s)
+-- Generating done (0.5s)
+-- Build files have been written to: /mnt/c/Users/Тарас/Desktop/ОСи/lab3/cmake-build-debug

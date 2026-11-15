@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/child.dir/link.d CMakeFiles/child.dir/src/child.c.o -o child  -lrt
